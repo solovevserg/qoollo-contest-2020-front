@@ -1,0 +1,1 @@
+# qoollo-contest-2020-front
